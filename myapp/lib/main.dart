@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Startup Name Generatorrrr',
+      title: 'Startup Name Generator',
       theme: ThemeData(
       primaryColor: Colors.white,
    
